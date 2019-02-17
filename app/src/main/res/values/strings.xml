@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="tvcategories"></string>
+    <string name="btngo">Go</string>
+    <string name="tvnumber" />
+    <string name="title" />
+    <string name="publish" />
+    <string name="imageinvisible" />
+    <color name="black_color">#000000</color>
+    <string-array name="sources">
+        <item>Show Categories</item>
+        <item>Top Stories</item>
+        <item>World</item>
+        <item>U.S.</item>
+        <item>Business</item>
+        <item>Politics</item>
+        <item>Technology</item>
+        <item>Health</item>
+        <item>Entertainment</item>
+        <item>Travel</item>
+        <item>Living</item>
+        <item>Most Recent</item>
+    </string-array>
+</resources>
